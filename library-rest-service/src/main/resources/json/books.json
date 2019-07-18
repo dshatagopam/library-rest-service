@@ -1,0 +1,18 @@
+[
+        { "id": 1, "title": "To Kill a Mockingbird", "author": "Harper Lee" },
+        { "id": 2, "title": "The Great Gatsby", "author": "F. Scott Fitzgerald" },
+        { "id": 3, "title": "Harry Potter and the Philosopher's Stone", "author": "J.K. Rowling" },
+        { "id": 4, "title": "1984", "author": "George Orwell" },
+        { "id": 5, "title": "Brave New World", "author": "Aldous Huxley" },
+        { "id": 6, "title": "Lord of the Flies", "author": "William Golding" },
+        { "id": 7, "title": "A Bend in the River", "author": "V.S. Naipaul" },
+        { "id": 8, "title": "The Bell Jar", "author": "Sylvia Plath" },
+        { "id": 9, "title": "Catch-22", "author": "Joseph Heller" },
+        { "id": 10, "title": "The Quiet American", "author": "Graham Greene" },
+        { "id": 11, "title": "The Adventures of Huckleberry Finn", "author": "Mark Twain" },
+        { "id": 12, "title": "The Color Purple", "author": "Alice Walker" },
+        { "id": 13, "title": "The Curious Incident of the Dog in the Night-Time", "author": "Mark Haddon" },
+        { "id": 14, "title": "Robinson Crusoe", "author": "Daniel Defoe" },
+        { "id": 15, "title": "The Wind in the Willows", "author": "Kenneth Grahame" },
+        { "id": 16, "title": "Memoirs of a Geisha", "author": "Arthur Golden" }
+]
