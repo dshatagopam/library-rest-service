@@ -1,0 +1,4 @@
+[source,options="nowrap"]
+----
+{"id":1,"title":"The Jungle Book","author":"Rudyard Kipling","isbn":"2195531124739"}
+----

@@ -1,0 +1,5 @@
+[source,bash]
+----
+$ http GET 'http://localhost:8080/v1/checkouts/user/100' \
+    'Accept:application/json'
+----

@@ -1,0 +1,9 @@
+[source,http,options="nowrap"]
+----
+POST /v1/checkouts HTTP/1.1
+Content-Type: application/json
+Content-Length: 56
+Host: localhost:8080
+
+{"id":1,"bookId":20,"userId":100,"dueDate":"2019-07-22"}
+----

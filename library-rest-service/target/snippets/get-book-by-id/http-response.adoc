@@ -1,0 +1,8 @@
+[source,http,options="nowrap"]
+----
+HTTP/1.1 200 OK
+Content-Length: 84
+Content-Type: application/json;charset=UTF-8
+
+{"id":1,"title":"The Jungle Book","author":"Rudyard Kipling","isbn":"2195531124739"}
+----

@@ -1,0 +1,4 @@
+[source,options="nowrap"]
+----
+[{"id":1000,"name":"Jane Smith"},{"id":2000,"name":"Foo Bar"}]
+----

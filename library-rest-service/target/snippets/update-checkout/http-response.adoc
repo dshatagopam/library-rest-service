@@ -1,0 +1,8 @@
+[source,http,options="nowrap"]
+----
+HTTP/1.1 200 OK
+Content-Length: 85
+Content-Type: application/json;charset=UTF-8
+
+{"id":1,"bookId":100,"userId":200,"dueDate":"2019-07-15","returnedDate":"2019-07-15"}
+----

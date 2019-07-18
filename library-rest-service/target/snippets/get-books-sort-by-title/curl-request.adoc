@@ -1,0 +1,5 @@
+[source,bash]
+----
+$ curl 'http://localhost:8080/v1/books?page=1&size=2&sortBy=title' -i -X GET \
+    -H 'Accept: application/json'
+----

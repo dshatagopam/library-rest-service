@@ -1,0 +1,4 @@
+[source,options="nowrap"]
+----
+[{"id":1,"bookId":20,"userId":100,"dueDate":"2019-07-22"},{"id":2,"bookId":40,"userId":200,"dueDate":"2019-07-22"}]
+----

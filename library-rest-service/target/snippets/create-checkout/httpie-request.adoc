@@ -1,0 +1,5 @@
+[source,bash]
+----
+$ echo '{"id":1,"bookId":20,"userId":100,"dueDate":"2019-07-22"}' | http POST 'http://localhost:8080/v1/checkouts' \
+    'Content-Type:application/json'
+----

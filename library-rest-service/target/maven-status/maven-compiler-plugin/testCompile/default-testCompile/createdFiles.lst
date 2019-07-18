@@ -1,0 +1,4 @@
+com/library/LibraryApplicationTest.class
+com/library/rest/controller/CheckoutControllerWebMvcTest.class
+com/library/rest/controller/BookControllerWebMvcTest.class
+com/library/rest/controller/UserControllerWebMvcTest.class

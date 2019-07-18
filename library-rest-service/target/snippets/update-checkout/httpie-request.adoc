@@ -1,0 +1,6 @@
+[source,bash]
+----
+$ echo '{"isReturned":true}' | http PATCH 'http://localhost:8080/v1/checkouts/1' \
+    'Accept:application/json' \
+    'Content-Type:application/json'
+----

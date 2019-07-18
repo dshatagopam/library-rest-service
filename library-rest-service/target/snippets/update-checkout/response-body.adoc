@@ -1,0 +1,4 @@
+[source,options="nowrap"]
+----
+{"id":1,"bookId":100,"userId":200,"dueDate":"2019-07-15","returnedDate":"2019-07-15"}
+----

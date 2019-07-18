@@ -1,0 +1,10 @@
+[source,http,options="nowrap"]
+----
+PATCH /v1/checkouts/1 HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+Content-Length: 19
+Host: localhost:8080
+
+{"isReturned":true}
+----
